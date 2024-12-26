@@ -2,7 +2,7 @@
 
 ✉️ onlymisaky@gmail.com
 
-🔗 https://onlymisaky.gitee.io
+🔗 https://onlymisaky.github.io
 
 ![](https://github-readme-stats.vercel.app/api?username=onlymisaky&count_private=true&show_icons=true&show_owner=true&theme=cobalt)
 
