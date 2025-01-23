@@ -8,8 +8,8 @@
 
 ![技能](https://github-readme-stats.vercel.app/api/top-langs/?username=onlymisaky&layout=compact&theme=cobalt)
 
-<a href="https://github.com/onlymisaky/vue3-antd-admin" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlymisaky&repo=vue3-antd-admin&show_icons=true&theme=cobalt" />
+<a href="https://github.com/onlymisaky/vite-vue-starter" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlymisaky&repo=vite-vue-starter&show_icons=true&theme=cobalt" />
 </a>
 
 <a href="https://github.com/onlymisaky/AngularJS-ES6" target="_blank">
